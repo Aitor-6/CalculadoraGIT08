@@ -20,7 +20,11 @@ public class Calculadora08 {
 	public int multiplicar(int a, int b) {
 		 return a * b;
 	}
-	
+		
+	public int modulo(int a, int b) {
+		 return a % b;
+	}
+
 	public int potencia(int base, int exponente) {
 		 int resultado = 1;
 		 for (int i = 0; i < exponente; i++) {
@@ -28,10 +32,5 @@ public class Calculadora08 {
 		 }
 		 return resultado;
 	}
-		
-	public int modulo(int a, int b) {
-		 return a % b;
-	}
-
 
 }
