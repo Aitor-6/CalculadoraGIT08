@@ -1,5 +1,12 @@
 package calculadora08;
 /**autoria: Aitor Fernandez Clase: CalculadoraGIT08*/
+
+/**
+ * Clase de ejemplo para demostración.
+ * @author Aitor Fernández
+ * @version 1.0.0
+ */
+
 public class Calculadora08 {
 	
 	public int sumar(int a, int b) {
