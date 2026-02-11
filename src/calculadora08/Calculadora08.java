@@ -1,5 +1,5 @@
 package calculadora08;
-
+/**autoria: Aitor Fernandez Clase: CalculadoraGIT08*/
 public class Calculadora08 {
 	
 	public int sumar(int a, int b) {
